@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Other Skills:</h2>
+<h2 align="left">Tools:</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">Other Skills:</h2>
 
 ###
 
